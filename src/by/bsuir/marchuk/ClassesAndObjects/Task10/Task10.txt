@@ -1,1 +1,2 @@
-javac -d out -sourcepath src src/../Main.java
+путь cmd: E:\Documents\University\Марчук 951004\3 курс\5 семестр\ВТ\Лабораторные работы\лабораторная работа 1\Lab1\src\by\bsuir\marchuk\ClassesAndObjects>
+команда: java Task9.Main
