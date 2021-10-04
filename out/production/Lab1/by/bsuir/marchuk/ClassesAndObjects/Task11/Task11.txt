@@ -1,0 +1,5 @@
+Зайти в папку:
+~/Lab1/out/artifacts/Lab1_jar
+
+Открыть консоль и выполнить: 
+java -jar Lab1.jar
